@@ -6,6 +6,8 @@
 
 You could try to use postman to hit the API and hit "http://localhost:3000/songs/English" or you may change "English" with any input you want.
 
+Change filename example.env to .env
+
 How to run server : type in the terminal "npm i" and then "npm run start"
 
 How to run test : type in terminal "npm run test"
