@@ -49,7 +49,7 @@ _Response (200)_
 
 _Response (404)_
 
-````json
+```json
 {
   "msg": "No Input"
 }
@@ -61,4 +61,4 @@ _Response (500)_
 {
   "msg": "Internal Server Error"
 }
-````
+```
