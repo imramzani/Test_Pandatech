@@ -1,0 +1,26 @@
+{
+  "name": "test_pandatech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --runInBand --detectOpenHandles --forceExit",
+    "start": "nodemon ./bin/www.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imramzani/Test_Pandatech.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imramzani/Test_Pandatech/issues"
+  },
+  "homepage": "https://github.com/imramzani/Test_Pandatech#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.0"
+  }
+}
