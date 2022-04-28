@@ -1,4 +1,4 @@
-# Hacktiv Heroes API Documentation
+# Documentation
 
 &nbsp;
 
@@ -53,6 +53,8 @@ _Response (404)_
 {
   "msg": "No Input"
 }
+```
+
 _Response (500)_
 
 ```json
